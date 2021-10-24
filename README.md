@@ -1,3 +1,3 @@
-Paralax demo based on art from Firewatch game. Open `index.html` and scroll down. 
+Parallax demo based on art from Firewatch game. Open `index.html` and scroll down. 
 
 CSS by Sam Beckham.
